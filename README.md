@@ -7,6 +7,7 @@ Pré-requis:
 Vous devez avoir sur votre ordinateur:
 -docker desktop
 -kubernetes
+-git clone https://github.com/Nancy61/exo-kub-001
 
 Comment déployer l'application:
 1-Connectez-vous sur votre terminal en tant qu'administrateur.
